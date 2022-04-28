@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "owner_id": ["630836206149828610"],
+        "support": "",
+        "website": ""
+    },
+    "bot": {
+        "connections": {
+            "mongoose": "mongodb+srv://12345:12345@cluster0.sc7wg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "yt_api": "AIzaSyA0jPhFkNAryrzi_-96HcVM6tiMOk_L0wQ"
+        },
+        "setting": {
+            "main_prefix": "x"
+        }
+    }
+}
